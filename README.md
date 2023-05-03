@@ -1,5 +1,5 @@
 # 💫 About Me:
-Merhaba Ben Celil BackEnd Dev. Olarak kendimi çalışıyorum <br>ve kendimi geliştiriyorum
+Merhaba Ben Celil BackEnd Dev. Olarak çalışıyorum <br>ve kendimi geliştiriyorum
 
 
 ## 🌐 Socials:
